@@ -1,9 +1,9 @@
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(600, 600);
 }
 
 function draw() {
-  background(000, 000, 000);
+  background(0, 0, 0);
   
   for (let y = 0; y < 80; y++) {
     for (let x = 0; x < 80; x++) {
