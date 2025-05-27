@@ -10,10 +10,19 @@ body {
     background: black;
 }
 
+h1 {
+    font-weight: 600;
+}
+
+li {
+    font-size: 0,5em;
+  }  
+
 a {
     color: white;
     text-decoration: none;
     transition: 0.3s ease;
+    font-weight: 400;
 }
 
 a:hover {
@@ -23,4 +32,12 @@ a:hover {
       0 0 20px rgba(255, 255, 255, 0.6);
     
   }
+
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
   
