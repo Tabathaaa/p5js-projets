@@ -1,7 +1,7 @@
 let myImage;
 
 function preload() {
-  myImage = loadImage("https://tabathaaa.github.io/p5js-projets/photo-chacha/image.jpg");
+  myImage = loadImage("https://tabathaaa.github.io/p5js-projets/photo-chacha/chacha.jpg");
 }
 
 function setup() {
