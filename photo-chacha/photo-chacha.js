@@ -1,11 +1,11 @@
 let myImage;
 
 function preload() {
-  myImage = loadImage("image.jpg");
+  myImage = loadImage("https://tabathaaa.github.io/p5js-projets/photo-chacha/image.jpg");
 }
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
   colorMode(HSB);
 }
 
