@@ -53,7 +53,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,0,0,3);
+  background(200,30,50,3);
   bouncy.update();
   Blabla.update();
   Chaton.update();
